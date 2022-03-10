@@ -9,6 +9,7 @@ public class Hello0 {
     System.out.println("무야호~");
     System.out.println("수정됨?");
     System.out.println("수정됐쓰요!");
+    System.out.println("빌런등장!");
   }
   static void m1() {
     System.out.println("연습연습!");
