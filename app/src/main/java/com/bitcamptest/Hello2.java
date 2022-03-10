@@ -6,11 +6,12 @@ public class Hello2 {
     System.out.println("머지가머지");
     m1();
     System.out.println("명준호1");
-  }
-  System.out.println("요섭2");
+    System.out.println("요섭2");
 
-  System.out.println("hahahahahahahahaahha");
-  System.out.printf("%s", "헐");
+    System.out.println("hahahahahahahahaahha");
+    System.out.printf("%s", "헐");
+
+  }
 
   static void m1() {
     System.out.println("예에예에");
