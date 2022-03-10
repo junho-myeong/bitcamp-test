@@ -2,6 +2,6 @@ package com.bitcamptest;
 
 public class Hello555 {
 	public static void main(String[] args) {
-		System.out.println("ÇĞ»ı5!");
+		System.out.println("í•™ìƒ5!");
 	}
 }
