@@ -7,6 +7,6 @@ public class Hello2 {
     System.out.println("명준호1");
   }
   static void m1() {
-    System.out.println("이상준 바보입니다");
+    System.out.println("예에예에");
   }
 }
