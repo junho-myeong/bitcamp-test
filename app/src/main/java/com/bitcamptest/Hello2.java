@@ -6,6 +6,6 @@ public class Hello2 {
     m1();
   }
   static void m1() {
-    System.out.println("이상준 바보입니다");
+    System.out.println("예에예에");
   }
 }
